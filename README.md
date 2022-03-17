@@ -1,5 +1,5 @@
 # crispy-eureka
-Django Rest Framework Series - Django DRF app and React Front-end
+
 <p>
 This is not a stand alone app. It's a blog app and blog API devloped to be consumed by a front end React Native project. 
 <br>
