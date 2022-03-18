@@ -1,7 +1,7 @@
 # crispy-eureka
 
 <p>
-This is not a stand alone app. It's a blog app and blog API devloped to be consumed by a front end React Native project. 
+This is not a stand alone app. It's a blog app and blog API developed to be consumed by a front end React Native project. 
 <br>
 If what you want is to see the back-end, all of it is on this project.
 <br>
