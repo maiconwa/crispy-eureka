@@ -9,3 +9,5 @@ In order to run the back-end properly you need to create a secret key and pass i
 If what you are looking is the React Native counterpart of this software, please follow the link below.
 
 [crispy-eureka-react-front-end](https://github.com/maiconwa/crispy-eureka-react)
+
+;)
